@@ -1,0 +1,10 @@
+node_modules/
+dist/
+backups/
+review/
+.env*
+*.log
+docs/deployment-receipt.json
+public/assets/brand/tedu-reference.png
+scripts/prepare.mjs
+scripts/import-images.mjs

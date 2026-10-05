@@ -1,0 +1,10 @@
+{
+ "name":"tedustore-demo",
+ "version":"1.0.0",
+ "private":true,
+ "type":"module",
+ "description":"Independent TED University merchandise concept with a browser-only checkout simulation.",
+ "scripts":{"start":"node scripts/serve.mjs","build":"node scripts/build.mjs","check":"node --check public/app.js && node --check public/catalog.js && node --check public/i18n.js","review":"node scripts/review.mjs","quality":"node scripts/quality.mjs"},
+ "devDependencies":{"playwright":"1.58.2"},
+ "engines":{"node":">=20"}
+}

@@ -1,0 +1,22 @@
+{
+  "brand": [
+    {
+      "url": "https://www.tedu.edu.tr/themes/custom/tedu/tedu-colorful.svg",
+      "file": "public/assets/brand/tedu.svg"
+    },
+    {
+      "url": "https://radiotedu.com/wp-content/themes/radiotedu/assets/images/radiotedu-logo.png",
+      "file": "public/assets/brand/radiotedu.png"
+    },
+    {
+      "url": "https://radiotedu.com/wp-content/themes/radiotedu/assets/images/radiotedu-logo-white.png",
+      "file": "public/assets/brand/radiotedu-white.png"
+    }
+  ],
+  "fonts": {
+    "family": "Albert Sans",
+    "source": "https://radiotedu.com/wp-content/themes/radiotedu/assets/fonts/",
+    "license": "SIL Open Font License 1.1"
+  },
+  "products": "Original imagegen mockups; filenames and prompts documented separately."
+}

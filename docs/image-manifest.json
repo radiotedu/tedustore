@@ -1,0 +1,72 @@
+[
+  {
+    "name": "hoodie",
+    "source": "exec-259cede8-721c-42b9-90ec-66ebdc748d73.png",
+    "output": "public/assets/products/hoodie.webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 108998,
+    "tool": "Built-in imagegen",
+    "kind": "Original conceptual merchandise mockup"
+  },
+  {
+    "name": "tee",
+    "source": "exec-c15e6fbb-5c29-4b8a-84e4-5004a1b7d6d9.png",
+    "output": "public/assets/products/tee.webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 102842,
+    "tool": "Built-in imagegen",
+    "kind": "Original conceptual merchandise mockup"
+  },
+  {
+    "name": "tote",
+    "source": "exec-2a208896-f32f-40d9-aad5-8c930139e0ef.png",
+    "output": "public/assets/products/tote.webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 90436,
+    "tool": "Built-in imagegen",
+    "kind": "Original conceptual merchandise mockup"
+  },
+  {
+    "name": "cap",
+    "source": "exec-f80586b2-0040-402f-9d76-69adc9cbf07e.png",
+    "output": "public/assets/products/cap.webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 125202,
+    "tool": "Built-in imagegen",
+    "kind": "Original conceptual merchandise mockup"
+  },
+  {
+    "name": "mug",
+    "source": "exec-26bd6aa8-99cc-4f16-b52d-12d7a32744a7.png",
+    "output": "public/assets/products/mug.webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 38572,
+    "tool": "Built-in imagegen",
+    "kind": "Original conceptual merchandise mockup"
+  },
+  {
+    "name": "studio",
+    "source": "exec-4e1c7de8-ae78-4723-ac6f-95169570cddd.png",
+    "output": "public/assets/products/studio.webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 116836,
+    "tool": "Built-in imagegen",
+    "kind": "Original conceptual merchandise mockup"
+  },
+  {
+    "name": "hero",
+    "source": "exec-a545f917-80d8-43d4-9538-e399e69b5c25.png",
+    "output": "public/assets/products/hero.webp",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 179812,
+    "tool": "Built-in imagegen",
+    "kind": "Original conceptual merchandise mockup"
+  }
+]

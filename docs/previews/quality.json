@@ -1,0 +1,99 @@
+{
+  "states": [
+    {
+      "name": "desktop",
+      "checked": 91,
+      "issues": [],
+      "overflow": []
+    },
+    {
+      "name": "product",
+      "checked": 112,
+      "issues": [],
+      "overflow": []
+    },
+    {
+      "name": "size-guide",
+      "checked": 135,
+      "issues": [],
+      "overflow": []
+    },
+    {
+      "name": "bag",
+      "checked": 109,
+      "issues": [],
+      "overflow": []
+    },
+    {
+      "name": "search",
+      "checked": 111,
+      "issues": [],
+      "overflow": []
+    },
+    {
+      "name": "privacy",
+      "checked": 94,
+      "issues": [],
+      "overflow": []
+    },
+    {
+      "name": "contact",
+      "checked": 118,
+      "issues": [],
+      "overflow": []
+    },
+    {
+      "name": "payment",
+      "checked": 116,
+      "issues": [],
+      "overflow": []
+    },
+    {
+      "name": "payment-error",
+      "checked": 117,
+      "issues": [],
+      "overflow": []
+    },
+    {
+      "name": "payment-320",
+      "checked": 109,
+      "issues": [],
+      "overflow": []
+    },
+    {
+      "name": "payment-390",
+      "checked": 109,
+      "issues": [],
+      "overflow": []
+    },
+    {
+      "name": "receipt",
+      "checked": 103,
+      "issues": [],
+      "overflow": []
+    },
+    {
+      "name": "payout",
+      "checked": 106,
+      "issues": [],
+      "overflow": []
+    },
+    {
+      "name": "homepage-320",
+      "checked": 85,
+      "issues": [],
+      "overflow": []
+    },
+    {
+      "name": "homepage-390",
+      "checked": 85,
+      "issues": [],
+      "overflow": []
+    }
+  ],
+  "errors": [],
+  "anchors": true,
+  "focusTrap": true,
+  "correctedError": true,
+  "pass": true
+}
